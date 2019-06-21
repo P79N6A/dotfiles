@@ -1,5 +1,2 @@
-#OS generated files ignored#
-###########
-*.DS_Store
 *.swp
-
+Mackup/.vim/bundle/*
