@@ -1,0 +1,11 @@
+[user]
+	name = Yulong Liu
+	email = liuyulong01@qiyi.com
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	ci = commit
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	ft = fetch
+	rb = rebase

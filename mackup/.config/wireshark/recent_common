@@ -1,0 +1,87 @@
+# Recent settings file for Wireshark 3.0.0.
+#
+# This file is regenerated each time Wireshark is quit.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+recent.capture_file: /Users/long/dump.pcap
+
+######## Recent capture filters (latest last), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+recent.display_filter: tcp.stream eq 15
+recent.display_filter: tcp.stream eq 5
+recent.display_filter: tcp.stream eq 3
+recent.display_filter: tcp.stream eq 4
+recent.display_filter: ip.src ==  192.168.1.121
+recent.display_filter: tcp.stream eq 51
+recent.display_filter: source == 192.168.1.121
+recent.display_filter: ip.s
+recent.display_filter: ip.src =  192.168.1.121
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: -1495
+gui.geometry_main_y: -602
+gui.geometry_main_width: 1453
+gui.geometry_main_height: 760
+
+# Main window maximized.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_main_maximized: FALSE
+
+# Statusbar left pane size.
+# Decimal number.
+gui.geometry_status_pane: 250
+
+# Statusbar middle pane size.
+# Decimal number.
+gui.geometry_status_pane_right: 250
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# WLAN statistics upper pane size.
+# Decimal number.
+gui.geometry_status_wlan_stats_pane: 200
+
+# Warn if running with elevated permissions (e.g. as root).
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_elevated: TRUE
+
+# Warn if npf.sys isn't loaded on Windows >= 6.0.
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_no_npf: TRUE
+
+# Geometry and maximized state of PacketDialog window.
+# Decimal integers.
+gui.geom.PacketDialog.x: -1430
+gui.geom.PacketDialog.y: -614
+gui.geom.PacketDialog.width: 1162
+gui.geom.PacketDialog.height: 608
+# TRUE or FALSE (case-insensitive).
+gui.geom.PacketDialog.maximized: FALSE
+
+# Geometry and maximized state of FollowStreamDialog window.
+# Decimal integers.
+gui.geom.FollowStreamDialog.x: -1274
+gui.geom.FollowStreamDialog.y: -658
+gui.geom.FollowStreamDialog.width: 894
+gui.geom.FollowStreamDialog.height: 760
+# TRUE or FALSE (case-insensitive).
+gui.geom.FollowStreamDialog.maximized: FALSE
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"
